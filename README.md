@@ -1,5 +1,5 @@
 # Mechanicalkeyboard-pcb
-a pcb design for a mechanical keyboard based on RP040 MCU 
+a pcb design for a mechanical keyboard based on RP2040 MCU 
 
 ![image](https://github.com/user-attachments/assets/cdde0a0c-462f-4ddf-9e86-ee772b9e3665)
 
